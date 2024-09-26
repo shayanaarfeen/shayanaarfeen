@@ -1,11 +1,11 @@
 <div align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/merajul-aarfeen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
 </div>
 
 <div align="right">
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://twitter.com/shayanar4" target="_blank">
     <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30"/>
   </a>
 </div>
