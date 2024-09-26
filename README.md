@@ -1,11 +1,11 @@
 <div align="left">
-  <a href="https://linkedin.com/merajul-aarfeen" target="_blank">
+  <a href="https://www.linkedin.com/in/merajul-aarfeen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
 </div>
 
 <div align="right">
-  <a href="https://twitter.com/shayanar4" target="_blank">
+  <a href="https://x.com/shayanar4" target="_blank">
     <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30"/>
   </a>
 </div>
@@ -120,10 +120,10 @@ X X X
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/merajul-aarfeen" target="_blank">
+  <a href="https://www.linkedin.com/in/merajul-aarfeen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/shayanar4" target="_blank">
+  <a href="https://x.com/shayanar4" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://medium.com/@shayanar4" target="_blank">
@@ -132,7 +132,7 @@ X X X
   <a href="https://github.com/shayanaarfeen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-shayanar4@gmail.com.com" target="_blank">
+  <a href="mailto:your-xxx@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.leetcode.com/shayanar4" target="blank">
