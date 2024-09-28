@@ -1,13 +1,18 @@
-<div align="left">
+<div align="left" >
   <a href="https://www.linkedin.com/in/merajul-aarfeen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  
+   <a href="https://x.com/shayanar4" target="_blank">
+    <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30"/>
   </a>
 </div>
 
 <div align="right">
-  <a href="https://x.com/shayanar4" target="_blank">
-    <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30"/>
-  </a>
+  <a href="https://merajul-aarfeen-shayan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23E63946.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" height="30"/>
+</a>
+
 </div>
 
 
@@ -35,6 +40,13 @@ I am **Merajul Aarfeen**, a software developer passionate about building web app
 - 🔭 Current Focus: **Backend Development**
 - 🎯 Always learning new tools and frameworks to enhance my skills.
 - 💼 You can explore my work and contributions below.
+
+---
+
+## 🌐 Portfolio
+
+Check out my portfolio for more about my work, skills, and projects:  
+**[Merajul Aarfeen's Portfolio](https://merajul-aarfeen-shayan.vercel.app/)**  
 
 ---
 
