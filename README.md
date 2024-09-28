@@ -93,7 +93,22 @@ I am **Merajul Aarfeen**, a software developer passionate about building web app
     </a>
   </div>
 X X X
-  <!-- Project 2 -->
+
+<!-- Project 2 -->
+  <div style="display: inline-block; text-align: center; margin: 15px;">
+    <img src="./infinite ink.png" alt="Project 2 Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>🚀 Infinite Ink</h3>
+    <p>Infinite Ink is a blog application designed to provide a simple yet effective platform for users to create, read, and manage blog posts. Built with React for the front-end and integrated with Appwrite for backend services, this app serves as an ideal project for beginner developers looking to enhance their skills in web development.</p>
+    <a href="https://github.com/shayanaarfeen/Infinite-Ink" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+    </a>
+    <a href="https://infinite-ink-mauve.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+    </a>
+  </div>
+  
+X X X
+  <!-- Project 3 -->
   <div style="display: inline-block; text-align: center; margin: 15px;">
     <img src="./contactAppPreview.png" alt="Project 2 Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>🚀 Contact App</h3>
