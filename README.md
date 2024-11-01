@@ -94,6 +94,20 @@ Check out my portfolio for more about my work, skills, and projects:
 
   <!-- Project 1 -->
   <div style="display: inline-block; text-align: center; margin: 15px;">
+    <img src="./synctalk1.png" alt="Project 1 Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h3>🌟 sync Talk </h3>
+    <p>SyncTalk is a real-time chat application built on the MERN stack, utilizing Socket.IO to enable seamless, instant messaging. With features designed for responsive and efficient communication, SyncTalk offers a modern, intuitive interface, perfect for connecting users instantly across any device.</p>
+    <a href="https://github.com/shayanaarfeen/syncTalk" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+    </a>
+    <a href="https://sync-talk.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+    </a>
+  </div>
+X X X
+
+  <!-- Project 2 -->
+  <div style="display: inline-block; text-align: center; margin: 15px;">
     <img src="./E-zey.png" alt="Project 1 Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>🌟 E-Zey </h3>
     <p>A responsive e-commerce web application built with React, styled using Tailwind CSS, and state management powered by Redux and Context API. It includes an authentication system for secure user registration, login, and profile management. Features real-time product browsing, dynamic cart updates, and a fully functional checkout process.</p>
@@ -106,7 +120,7 @@ Check out my portfolio for more about my work, skills, and projects:
   </div>
 X X X
 
-<!-- Project 2 -->
+<!-- Project 3 -->
   <div style="display: inline-block; text-align: center; margin: 15px;">
     <img src="./infinite ink.png" alt="Project 2 Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>🚀 Infinite Ink</h3>
@@ -120,7 +134,7 @@ X X X
   </div>
   
 X X X
-  <!-- Project 3 -->
+  <!-- Project 4 -->
   <div style="display: inline-block; text-align: center; margin: 15px;">
     <img src="./contactAppPreview.png" alt="Project 2 Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>🚀 Contact App</h3>
